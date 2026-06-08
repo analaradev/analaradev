@@ -1,4 +1,4 @@
-<p align="center">⭐⭐⭐⭐⭐</p>
+<h2 align="center">★★★★★</h2>
 
 <h1 align="center">Hola, soy Ana Patricia Hernandez Lara</h1>
 
@@ -153,4 +153,4 @@
 
 > "Construyo software para resolver procesos reales: aplicaciones moviles, sistemas internos, APIs y plataformas que ayudan a operar mejor."
 
-<p align="center">⭐⭐⭐⭐⭐</p>
+<h2 align="center">★★★★★</h2>
