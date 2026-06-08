@@ -65,16 +65,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=analaradev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="495" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analaradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="350" height="195" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=analaradev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
----
-
-## GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=analaradev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=analaradev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
