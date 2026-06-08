@@ -1,12 +1,8 @@
+<p align="center">⭐⭐⭐⭐⭐</p>
 
-<p align="center">
- ⭐⭐⭐⭐⭐
-</p>
-## Hola, soy Ana Patricia Hernandez Lara 
+<h1 align="center">Hola, soy Ana Patricia Hernandez Lara</h1>
 
-**Desarrolladora de Software | Flutter Developer | Full Stack Developer**
-
----
+<p align="center"><strong>Desarrolladora de Software | Flutter Developer | Full Stack Developer</strong></p>
 
 ## Sobre mi
 
@@ -156,6 +152,3 @@
 ---
 
 > "Construyo software para resolver procesos reales: aplicaciones moviles, sistemas internos, APIs y plataformas que ayudan a operar mejor."
-<p align="center">
- ⭐⭐⭐⭐⭐
-</p>
