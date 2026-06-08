@@ -152,3 +152,5 @@
 ---
 
 > "Construyo software para resolver procesos reales: aplicaciones moviles, sistemas internos, APIs y plataformas que ayudan a operar mejor."
+
+<p align="center">⭐⭐⭐⭐⭐</p>
