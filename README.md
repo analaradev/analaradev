@@ -1,4 +1,8 @@
-# Hola, soy Ana Patricia Hernandez Lara
+# Hola, soy Ana Patricia Hernandez Lara 
+
+<p align="center">
+ ⭐⭐⭐⭐⭐
+</p>
 
 **Desarrolladora de Software | Flutter Developer | Full Stack Developer**
 
