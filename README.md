@@ -23,7 +23,7 @@
   <tr>
     <td align="center"><strong>Lenguajes</strong></td>
     <td align="center"><strong>Frameworks</strong></td>
-    <td align="center"><strong>Bases de Datos</strong></td>
+    <td align="center"><strong>Bases&nbsp;de&nbsp;Datos</strong></td>
     <td align="center"><strong>Herramientas</strong></td>
   </tr>
   <tr>
@@ -65,8 +65,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=analaradev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analaradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=analaradev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="495" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analaradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="350" height="195" alt="Top Languages" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=analaradev&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=analaradev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -149,7 +149,7 @@
   <a href="https://github.com/analaradev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/analara5tar">
+  <a href="https://www.linkedin.com/in/analara5tar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
